@@ -1,0 +1,19 @@
+Extensions Used:
+  -Spring Boot Extension Pack
+    -Spring Boot Dashboard
+    -Spring Boot Tools
+    -Spring Initializr Java Support
+  -Extension Pack for java
+    -Debugger for java
+    -Maven for Java
+    -Project Manager for Java
+    -Language Support for Java (TM) by Red Hat
+    -IntelliCode
+  -IntelliCode API Usage Examples
+  -Gitpod
+  -Live Server
+  -PHP Debug
+  -Remote - SSH
+  -Remote - SSH Editing Configuration
+  -Remote Explorer
+  -Revature-labs
